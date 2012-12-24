@@ -14,7 +14,9 @@
         ),
 
 ## Использование
+
 *   Скопируйте файл `SmartClientScript.php` в директорию `protected` вашего приложения, например `protected/extensions/SmartClientScript/SmartClientScript.php`
+
 *   Подключите компонент в файле конфигурации `protected/config/main.php`
         
         'clientScript' => array(
